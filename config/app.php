@@ -123,4 +123,10 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+
+    'mongo_uri' => 'mongodb+srv://dd:dQGACFuNNzyvJAFi@cluster0.z63diux.mongodb.net/?appName=Cluster0',
+    'mailchimp_code' => '2608b677d832d329c4e91d496e61ba7b-us9',
+    'mailchimp_audience_id' => '1cb0fcf719',
+    'mailchimp_id' => 'us9',
+
 ];
